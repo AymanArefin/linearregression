@@ -1,5 +1,5 @@
 # linear regression
-This project demonstrates my learning from week one of the Machine Learning Specialization course from deeplearningai.com through a model built with a salary sheet from kaggle.com.
+This is my first github project and aswell as a project that demonstrates my learning from week one of the Machine Learning Specialization course from deeplearningai.com through a model built with a salary sheet from kaggle.com.
 
 Resources: 
 https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression?resource=download
