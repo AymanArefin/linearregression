@@ -63,9 +63,9 @@ ax1.set_ylabel('Cost')
 ax2.set_ylabel('Cost') 
 ax1.set_xlabel('Iterations')
 ax2.set_xlabel('Iterations') 
-plt.show()
 
 # displays the data in the csv and makes a line with w and b
+plt.figure(2)
 plt.plot(x_train, y_train)
 plt.plot(x_train, w * x_train + b)
 plt.title("Years of Experience vs. Salary")
